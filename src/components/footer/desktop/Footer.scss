@@ -1,0 +1,98 @@
+.footer__cont {
+    padding:72px 72px 24px 72px;
+    background-color: #0C0C0C;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    border-radius: 16px 16px 0px 0px;
+
+    .footer__subcont {
+        display: flex;
+        justify-content: space-between;
+        gap: 64px;
+
+        .footer__info__cont {
+            max-width: 450px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+
+            img {
+                width: max-content;
+            }
+
+            div {
+                display: flex;
+                gap: 8px;
+            }
+
+            input {
+                width: 100%;
+                padding: 10px 16px;
+                border-radius: 4px;
+                font-size: 16px;
+                background-color: #ffffff25;
+                color: #ffffff;
+            }
+        }
+
+        .footer__items__cont {
+            display: flex;
+            flex-direction: row;
+            padding-top: 8px;
+
+            .footer__item {
+                display: flex;
+                flex-direction: column;
+                gap: 24px;
+                width: 200px;
+
+                .footer__item__title {
+                    font-size: 20px;
+                    font-weight: 600;
+                }
+
+                .footer__item__subcont {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 16px;
+
+                    div a {
+                        color: #ffffff;
+                    }
+                }
+            }
+        }
+    }
+
+    .footer__bottom__cont {
+        padding-top: 24px;
+        border-top: 1px solid #bbbbbb;
+    }
+
+    .disabled {
+        // cursor: none;
+        color: #5e5e5e;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .footer__cont {
+
+        .footer__subcont {
+            flex-direction: column;
+
+            .footer__info__cont {
+                div {
+                    flex-direction: column;
+                }
+
+                input {
+                    width: auto;
+                }
+                
+            }
+        }
+    }
+}

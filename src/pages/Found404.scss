@@ -1,0 +1,12 @@
+.found404__cont {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+    div {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+}
