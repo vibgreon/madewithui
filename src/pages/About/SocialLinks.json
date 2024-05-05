@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "logo":"/logos/linkedin.svg",
+        "alt":"linkedin",
+        "link": "https://www.linkedin.com/in/vibgreon/"
+    },
+    {
+        "id":1,
+        "logo":"/logos/github.svg",
+        "alt":"github",
+        "link": "https://github.com/vibgreon"
+    },
+    {
+        "id":2,
+        "logo":"/logos/twitter.svg",
+        "alt":"twitter",
+        "link": "https://x.com/vibgreon"
+    },
+    {
+        "id":3,
+        "logo":"/logos/linktree.svg",
+        "alt":"linktree",
+        "link": "https://linktr.ee/vibgreon"
+    }
+]

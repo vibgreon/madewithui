@@ -1,0 +1,18 @@
+[
+ {
+    "id":0,
+    "title":"UI components: From Figma to Code",
+    "desc":"Reusing components leads to a seamless flow and helps maintain the aesthetics of the overall design. Defining each component according to different screen sizes before its use, with respect to readability and accessibility, is generally considered a good practice.",
+    "tag":"👀  no eyeballing",
+    "color": "#C03AFF",
+    "link":""
+ },
+ {
+    "id":1,
+    "title":"BUILD, LAUNCH, SCALE",
+    "desc":"There are many reasons why some startups fail to establish themselves in the market even after their debut. One of these reasons is hesitating to launch a product due to the desire for perfection. Starting and sticking with it is really important.",
+    "tag":"🤔 product life cycle",
+    "color": "#FA8B25",
+    "link":""
+ }
+]

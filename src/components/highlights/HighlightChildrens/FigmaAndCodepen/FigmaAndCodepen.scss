@@ -1,0 +1,23 @@
+.fac__cont {
+
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+
+    div {
+        width: 100%;
+        aspect-ratio: 1;
+        border: 1px solid #bbbbbb25;
+        // background-color: #bbbbbb50;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .fac__cont {
+        flex-direction: column;
+    }
+}

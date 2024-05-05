@@ -1,0 +1,23 @@
+.buttonContainer {
+    padding: 10px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    background-color: #0c0c0c;
+}
+
+.border {
+    border: 1px solid #ffffff;
+}
+
+.btnEnabled {
+    cursor: pointer;
+}
+
+.btnDisabled {
+    cursor: auto;
+}

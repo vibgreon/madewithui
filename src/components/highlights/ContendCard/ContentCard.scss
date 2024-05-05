@@ -1,0 +1,11 @@
+.cc__cont {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+
+    .cc_info {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+}

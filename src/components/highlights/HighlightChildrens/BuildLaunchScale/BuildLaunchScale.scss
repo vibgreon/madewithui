@@ -1,0 +1,16 @@
+.bls__cont {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    background-color: #bbbbbb50;
+    border-radius: 4px;
+    background-image: url("../../../../assets/pic/highlights/build_launch_scale.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+@media screen and (max-width: 450px) {
+    .bls__cont {
+        aspect-ratio: 1;
+    }
+}

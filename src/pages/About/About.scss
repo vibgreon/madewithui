@@ -1,0 +1,40 @@
+.about__cont {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+
+    div {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+        div {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+    }
+
+
+    .about__social_profilepic {
+        flex-direction: row;
+        gap: 40px;
+
+        img:first-child {
+            border-radius: 99px;
+        }
+    }
+
+    .about__social__icons {
+        flex-direction: row;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .about__cont {
+
+        .about__social_profilepic {
+            flex-direction: column;
+        }
+    }
+}

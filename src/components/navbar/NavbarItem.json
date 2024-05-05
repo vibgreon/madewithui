@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "index": "highlights",
+    "status": "enabled"
+  },
+  {
+    "id": 1,
+    "index": "blogs",
+    "status": "enabled"
+  },
+  {
+    "id": 2,
+    "index": "about",
+    "status": "enabled"
+  }
+]
