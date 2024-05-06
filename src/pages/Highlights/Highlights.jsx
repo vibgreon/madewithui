@@ -19,9 +19,7 @@ export default function Highlights() {
           <div className="highlights__header">
             <div className="header">Why this exist on the internet?</div>
             <div className="body">
-              {`Designers often perceive development as difficult, but in `}<b>reality</b>{`,
-              it's merely a matter of perception. I made this to show you that
-              if you `}<b>love</b>{` it enough, you can do it too.`}
+              {`Designers might think coding is tough, but it's just about how you look at it. I made this to show that with a fresh perspective, you can see the connections and find it easier to do.`}
             </div>
             <div className="highlights__header__tag"><Tag text={"✨ highlights"} color={"#242424"} /></div>
           </div>
