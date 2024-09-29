@@ -22,5 +22,11 @@
         "logo":"/logos/linktree.svg",
         "alt":"linktree",
         "link": "https://linktr.ee/vibgreon"
+    },
+    {
+        "id":4,
+        "logo":"/logos/portfolio.svg",
+        "alt":"portfolio",
+        "link": "https://www.figma.com/proto/XdevQuchTuQocdwRG2cHsp/vibgreon's-Portfolio?page-id=1%3A10804&node-id=161-11&node-type=frame&viewport=1929%2C148%2C0.07&t=sPORLlhWCVyXwF44-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=161%3A11&show-proto-sidebar=1"
     }
 ]
